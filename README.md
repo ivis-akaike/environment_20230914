@@ -1,2 +1,2 @@
-# environment_20230914
-environment_20230914
+# environment
+環境情報公開用のディレクトリ
